@@ -1,4 +1,6 @@
-# MRP ERP (React + TypeScript + Express + Tailwind)
+# MRP ERP React JS V.4
+By Ahmad Riko Dyansyah
+
 1. `npm run install:all`
 2. `npm run dev`  -> Web: http://localhost:5173 , API: http://localhost:4000
 Login: **admin / admin123**. Data tersimpan di `server/data/db.json` (dibuat otomatis + data contoh).
